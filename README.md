@@ -69,5 +69,6 @@ Patients struggle to understand medical data. This tool bridges the gap using AI
 PRs welcome! Reach out on [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/).
 
 ---
+Made with ❤️ for better patient understanding.
 
-© 2025 Tania Kapoor. All rights reserved.
+
