@@ -66,7 +66,7 @@ Patients struggle to understand medical data. This tool bridges the gap using AI
 
 ## 📬 Contribute / Collaborate
 
-PRs welcome! Reach out on [LinkedIn](https://www.linkedin.com/in/taniakapoor/).
+PRs welcome! Reach out on [LinkedIn](https://www.linkedin.com/in/taniakapoor98/).
 
 ---
 
